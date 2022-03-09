@@ -1,2 +1,2 @@
 # http://bit.ly/LatinoActualizado
-http://bit.ly/la_mejor
+# http://bit.ly/la_mejor
